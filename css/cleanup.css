@@ -1,1 +1,24 @@
 /* write your override styles here */
+/* write your override styles here */
+body {
+    background: none;
+}
+
+.tag-1 {
+    display: none;
+    background: none;
+}
+
+#wall #tag-2 {
+    background: none;
+    display: none;
+}
+
+div#wall #tag-3 {
+    background: none;
+    display: none;
+}
+
+div {
+    display: none;
+}
